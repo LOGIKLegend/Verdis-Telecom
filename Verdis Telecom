@@ -1,0 +1,47 @@
+#EXTINF:-1, RTL Croatia
+https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
+
+#EXTINF:-1, RTL Kockica
+https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
+
+#EXTINF:-1, Red TV
+https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
+
+#EXTINF:-1, Kurir TV
+https://kurir-tv.haste-cdn.net/providus/live2805.m3u8
+
+#EXTINF:-1, SOS Kanal Plus
+https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
+
+#EXTINF:-1, Sky Mix
+https://i.mjh.nz/SamsungTVPlus/GBBD3100006XM.m3u8
+
+#EXTINF:-1, Challenge
+https://i.mjh.nz/SamsungTVPlus/GBBD3100005RX.m3u8
+
+#EXTINF:-1, Blaze
+https://live.blaze.tv/live7/blaze/bitrate1.isml/live.m3u8
+
+#EXTINF:-1, Pop
+https://i.mjh.nz/SamsungTVPlus/GBBC430000128.m3u8
+
+#EXTINF:-1, Pop Max
+https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
+
+#EXTINF:-1, Viaplay Xtra
+https://i.mjh.nz/SamsungTVPlus/GBBB4300001NX.m3u8
+
+#EXTINF:-1, MTV Live
+https://ucdn.beetv.kz/btv/live/hls/000000447.m3u8
+
+#EXTINF:-1, Euronews
+https://euronews.alteox.app/hls/en_stream.m3u8
+
+#EXTINF:-1, CNN
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1, Deutsche Welle
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
+
+#EXTINF:-1, ALBUK
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
